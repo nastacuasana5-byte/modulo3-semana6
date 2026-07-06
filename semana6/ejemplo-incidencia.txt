@@ -1,0 +1,4 @@
+{
+  "tipo": "ruptura de un tuvo",
+  "descripcion": "La comunidad reporta que una tuveria esta rota y no hay agua desde hace varios días."
+}
